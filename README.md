@@ -1,1 +1,1 @@
-# Learning-shared-template-representation-with-augmented-feature-for-multi-object-pose-estimation
+# Learning shared template representation with augmented feature for multiobject pose estimation
